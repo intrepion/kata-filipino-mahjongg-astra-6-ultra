@@ -62,3 +62,7 @@ The game rules are isolated in `src/game.ts` as pure state transitions with seed
 ## License
 
 MIT. See [LICENSE](LICENSE) for the original license and copyright notice.
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-filipino-mahjongg-astra-6-ultra/)
