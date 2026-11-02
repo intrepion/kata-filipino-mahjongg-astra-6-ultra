@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "workflowCommit": "d9772f2510a9832c558f9e679e3ac73c9d549169",
+  "sourceCommit": "28c4de35e9372efa5620103c5727b0bd476e6a98",
+  "runId": "41421790116",
+  "url": "http://127.0.0.1:4254/",
+  "inputs": {
+    "index.html": "a4b83e4b4d3673661f75b1c422418446d9865d8f4398af1c8b6edf9b46ef1b53",
+    "assets/dm-sans-latin-400-normal-BwCSEQnW.woff": "38702875fe179437d200e7ba6f7fab4d497ffe48117ef332029b2081751186ad",
+    "assets/dm-sans-latin-400-normal-CW0RaeGs.woff2": "4ab51eb2cd7305d177187908d6397474d4520663f6c6e572feb0a64f4fa80006",
+    "assets/dm-sans-latin-500-normal-B9HHJjqV.woff2": "19bf1984956517c35c2bd35b6cdedac12a21d6fcd3596c614ecdfb88b648909d",
+    "assets/dm-sans-latin-500-normal-Dr3UlScf.woff": "7deb957e430b780ee3272d801af4f9f2211b1330ec40a312a8f25309eacb4034",
+    "assets/dm-sans-latin-600-normal-Aqo67rzb.woff2": "6bb2b2645ba5eeaecf56322c543fa3a75b87b927977b9c03b1dabc4205089120",
+    "assets/dm-sans-latin-600-normal-BmdmIIQ2.woff": "e7351257e49400eff05aca30a2007289194a900860d30c30770d8b8732897564",
+    "assets/dm-sans-latin-700-normal-CUSSCpQX.woff": "af422a448ac00679a8dbb13532db3616829c5a35b58d3eeea5903ce17ad2e36a",
+    "assets/dm-sans-latin-700-normal-DvUfVpUG.woff2": "35c5efa0e5daa52ee5c6500f5be354bf751fb65c4e49e1d6806c6eb5883e8fe9",
+    "assets/fraunces-latin-400-normal-6IfK1voy.woff2": "e558f39453a9c611908be04294b50dea5f21ae6c49b41c6e47f4115e91f90209",
+    "assets/fraunces-latin-400-normal-NUPT2cO8.woff": "695442434f77c44190b48a022f943e052bb60d49ed3c7940ea60a16ac3faf8b3",
+    "assets/fraunces-latin-500-normal-BTR4KCeb.woff": "3f090b71356567fa4f75f0beeff74d38196a8b0f99bf089cce4954910442bfbf",
+    "assets/fraunces-latin-500-normal-DnGCNyPD.woff2": "7975c1ef7caf89d0606dd985d35abe31a619c19262cf13f5a05938cc68fb27b2",
+    "assets/index-C-tyJn7J.js": "e1a760476cbaa35225558af6e4a0bdd23be3cc6c81bb78e995a015f8023387f5",
+    "assets/index-DxoVYdAN.css": "fa50151dd86e601eafab922ae27516f0f04606b9b298926d7028f39747c707d2"
+  },
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "screenshots": [
+    "mesa-astra-01.png",
+    "mesa-astra-02.png"
+  ]
+}
