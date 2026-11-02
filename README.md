@@ -66,3 +66,7 @@ MIT. See [LICENSE](LICENSE) for the original license and copyright notice.
 ## Play online
 
 [Play the hosted game](https://intrepion.github.io/kata-filipino-mahjongg-astra-6-ultra/)
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
